@@ -1,5 +1,5 @@
 - 👋 Hello! I'm a Divyansha Jain - working professional.
-- 👀 My work involves leveraging technology to enhance user experiences and drive business outcomes. Currently, we're utilizing tech stacks like Rescript, ReactJs, RUST, and various others to develop our applications.
+- 👀 My work involves leveraging technology to enhance user experiences and drive business outcomes. Currently, I'm utilizing tech stacks like Rescript, ReactJs, RUST, and various others to develop our applications.
 - 📫 How to reach me "https://www.linkedin.com/in/divyansha-jain-a274011b2/"
 
 <!---
